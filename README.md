@@ -1,3 +1,3 @@
 # Morvane
 
-Developed with Unreal Engine 5
+В проекте используется Git LFS
